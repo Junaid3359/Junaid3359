@@ -1,13 +1,17 @@
-- 👋 Hi, I’m @Junaid3359
-I've been learning coding since well 2022
-🌍  I'm based in Pakistan
-✉️  You can contact me at junaidashraf6116@gmail.com
-🧠  I'm learning Web Development and AI
-🤝  I'm open to collaborating on Interesting Projects
-Skills
-C++, Next.js, Javascript, Java, HTML, CSS, SQL
+### Hi, I'm Junaid Ashraf 👋
 
-<!---
-Junaid3359/Junaid3359 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Full Stack Developer | Software Engineering Student
+🚀 Building Web, Mobile & AI Solutions
+🌱 Learning AI, Cloud Computing & System Design
+⚡ React • Next.js • Node.js • Python • Flutter • SQL
+🎓 Final Year BS Software Engineering Student
+📚 Passionate about Software Development & Problem Solving
+🔭 Currently working on Full Stack and Mobile App Projects
+🤖 Exploring Artificial Intelligence and Machine Learning
+🌐 Experienced in MERN Stack Development
+📱 Developing Cross-Platform Mobile Applications with Flutter
+🛠️ Love turning ideas into real-world applications
+📈 Continuously improving my coding and development skills
+🤝 Open to collaboration on innovative projects
+🏆 Interested in Open Source Contributions
+📫 Reach me at: [junaidashraf6116@gmail.com](mailto:junaidashraf6116@gmail.com)
